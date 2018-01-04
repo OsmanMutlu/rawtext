@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<set xml:id="protest-set" type="closed" xmlns="http://ilk.uvt.nl/folia">
-    <class xml:id="Protest" label="protest"/>
-    <class xml:id="NProtest" label="notprotest"/>
+<set xml:id="training-protest" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="PR" label="Protest"/>
+    <class xml:id="NPR" label="Not Protest"/>
 </set>
-

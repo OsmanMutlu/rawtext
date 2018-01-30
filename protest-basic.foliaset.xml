@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="protest-basic" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="ETI" label="event_time"/>
+    <class xml:id="UI" label="urban_identifier"/>
+    <class xml:id="RI" label="rural_identifier"/>
+    <class xml:id="PLI" label="poor_loc_identifier"/>
+    <class xml:id="RLI" label="rich_loc_identifier"/>
+    <class xml:id="EP" label="event_place"/>
+    <class xml:id="LT" label="location_type"/>
+    <class xml:id="ET" label="event_type"/>
+    <class xml:id="WT" label="weapon_type"/>
+</set>

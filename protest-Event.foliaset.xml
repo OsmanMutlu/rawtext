@@ -3,8 +3,8 @@
     <class xml:id="etype" label="Event Type" />
     <class xml:id="loc" label="Location Type" />
     <class xml:id="wtype" label="Weapon Type" />
-    <class xml:id="urban" label="Urban Identifier" />
-    <class xml:id="rural" label="Rural Identifier" />
+    <class xml:id="urban" label="Urban Location Identifier" />
+    <class xml:id="rural" label="Rural Location Identifier" />
     <class xml:id="poor" label="Poor Location Identifier" />
     <class xml:id="count" label="Participant Count" />
     <class xml:id="casual" label="Participant Casualties" />

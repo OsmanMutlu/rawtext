@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="protest-part" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="type" label="Participant Type" />
+    <class xml:id="ideology" label="Participant Ideology" />
+    <class xml:id="ethnicity" label="Participant Ethnicity" />
+    <class xml:id="religion" label="Participant Religion" />
+    <class xml:id="demand" label="Participant Demand" />
+    <class xml:id="sector" label="Participant Sector" />
+    <class xml:id="socio" label="Participant Socioeconomic" />
+    <class xml:id="emp" label="Participant Employment" />
+    <class xml:id="sub" label="Subcontract Status" />
+</set>

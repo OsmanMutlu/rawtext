@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="protest-org" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="type" label="Organizator Type" />
+    <class xml:id="name" label="Organizator Name" />
+    <class xml:id="ideology" label="Organizator Ideology" />
+    <class xml:id="socio" label="Organizator Socioeconomic" />
+</set>

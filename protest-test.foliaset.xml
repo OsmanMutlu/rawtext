@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="protest-test" type="closed" xmlns="http://ilk.uvt.nl/folia" conceptlink="http://www.isocat.org/datcat/DC-2275">
+    <class xml:id="loc" label="Location Type" />
+    <class xml:id="etype" label="Event Type" />
+    <class xml:id="wtype" label="Weapon Type" />
+    <class xml:id="urban" label="Urban Identifier" />
+    <class xml:id="rural" label="Rural Identifier" />
+    <class xml:id="poor" label="Poor Location Identifier" />
+    <class xml:id="place" label="Place">
+        <class xml:id="place.name" label="Place State" />
+        <class xml:id="place.district" label="Place District" />
+        <class xml:id="place.neighbour" label="Place Neighbourhood" />
+        <class xml:id="place.village" label="Place Village" />
+        <class xml:id="place.other" label="Place Other" />
+    </class>
+    <class xml:id="target" label="Targeted Organization">
+        <class xml:id="target.type" label="Org Type" />
+        <class xml:id="target.name" label="Org Name" />
+        <class xml:id="target.ideology" label="Org Ideology" />
+        <class xml:id="target.ethnicity" label="Org Ethnicity" />
+        <class xml:id="target.religion" label="Org Religion" />
+    </class>
+    <class xml:id="org" label="Organizator">
+        <class xml:id="org.type" label="Org Type" />
+        <class xml:id="org.name" label="Org Name" />
+        <class xml:id="org.ideology" label="Org Ideology" />
+        <class xml:id="org.socio" label="Org Socioeconomic" />
+    </class>
+    <class xml:id="part" label="Participants">
+        <class xml:id="part.type" label="Part Type" />
+        <class xml:id="part.ideology" label="Part Ideology" />
+        <class xml:id="part.identity" label="Part Identity" />
+        <class xml:id="part.religion" label="Part Religion" />
+        <class xml:id="part.demand" label="Part Demand" />
+        <class xml:id="part.sector" label="Part Sector" />
+        <class xml:id="part.socio" label="Part Socioeconomic" />
+        <class xml:id="part.emp" label="Part Employment" />
+        <class xml:id="part.sub" label="Subcontract Status" />
+        <class xml:id="part.count" label="Part Count" />
+        <class xml:id="part.casual" label="Part Casualties" />
+        <class xml:id="part.casualpo" label="Public Officer Casualties" />
+        <class xml:id="part.civil" label="Civilian Casualties" />
+    </class>
+</set>

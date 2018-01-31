@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="protest-event" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="etype" label="Event Type" />
+    <class xml:id="loc" label="Location Type" />
+    <class xml:id="wtype" label="Weapon Type" />
+    <class xml:id="urban" label="Urban Identifier" />
+    <class xml:id="rural" label="Rural Identifier" />
+    <class xml:id="poor" label="Poor Location Identifier" />
+    <class xml:id="count" label="Participant Count" />
+    <class xml:id="casual" label="Participant Casualties" />
+    <class xml:id="casualpo" label="Public Officer Casualties" />
+    <class xml:id="civil" label="Civilian Casualties" />
+    <class xml:id="state" label="Place State" />
+    <class xml:id="district" label="Place District" />
+    <class xml:id="neighbour" label="Place Neighbourhood" />
+    <class xml:id="village" label="Place Village" />
+    <class xml:id="other" label="Place Other" />
+</set>

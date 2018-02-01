@@ -5,4 +5,5 @@
     <class xml:id="ideology" label="Target Ideology" />
     <class xml:id="ethnicity" label="Target Ethnicity" />
     <class xml:id="religion" label="Target Religion" />
+    <class xml:id="caste" label="Target Caste" />
 </set>

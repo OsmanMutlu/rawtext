@@ -6,6 +6,7 @@
     <class xml:id="urban" label="Urban Location Identifier" />
     <class xml:id="rural" label="Rural Location Identifier" />
     <class xml:id="poor" label="Poor Location Identifier" />
+    <class xml:id="title" label="Event Title" />
     <class xml:id="count" label="Participant Count" />
     <class xml:id="casual" label="Participant Casualties" />
     <class xml:id="casualpo" label="Public Officer Casualties" />

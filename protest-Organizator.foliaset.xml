@@ -3,5 +3,7 @@
     <class xml:id="type" label="Organizator Type" />
     <class xml:id="name" label="Organizator Name" />
     <class xml:id="ideology" label="Organizator Ideology" />
+    <class xml:id="caste" label="Organizator Caste" />
+    <class xml:id="count" label="Organizator Count" />
     <class xml:id="socio" label="Organizator Socioeconomic" />
 </set>

@@ -11,6 +11,7 @@
     <class xml:id="casual" label="Participant Casualties" />
     <class xml:id="casualpo" label="Public Officer Casualties" />
     <class xml:id="civil" label="Civilian Casualties" />
+    <class xml:id="place" label="Event Place" />
     <class xml:id="state" label="Place State" />
     <class xml:id="district" label="Place District" />
     <class xml:id="neighbour" label="Place Neighbourhood" />

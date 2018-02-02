@@ -16,5 +16,4 @@
     <class xml:id="district" label="Place District" />
     <class xml:id="neighbour" label="Place Neighbourhood" />
     <class xml:id="village" label="Place Village" />
-    <class xml:id="other" label="Place Other" />
 </set>

@@ -5,7 +5,6 @@
     <class xml:id="ethnicity" label="Participant Ethnicity" />
     <class xml:id="religion" label="Participant Religion" />
     <class xml:id="caste" label="Participant Caste" />
-    <class xml:id="demand" label="Participant Demand" />
     <class xml:id="sector" label="Participant Sector" />
     <class xml:id="socio" label="Participant Socioeconomic" />
     <class xml:id="emp" label="Participant Employment" />

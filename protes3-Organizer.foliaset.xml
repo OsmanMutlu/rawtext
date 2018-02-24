@@ -3,6 +3,9 @@
     <class xml:id="type" label="Organizer Type" />
     <class xml:id="name" label="Organizer Name" />
     <class xml:id="ideology" label="Organizer Ideology" />
+    <class xml:id="oethnicity" label="Organizer Ethnicity" />
+    <class xml:id="oreligion" label="Organizer Religion" />
+    <class xml:id="osector" label="Organizer Sector" />
     <class xml:id="caste" label="Organizer Caste" />
     <class xml:id="count" label="Organizer Count" />
     <class xml:id="orgses" label="Organizer SES" />

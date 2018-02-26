@@ -2,6 +2,7 @@
 <set xml:id="protest-part" type="closed" xmlns="http://ilk.uvt.nl/folia">
     <class xml:id="type" label="Participant Type" />
     <class xml:id="pname" label="Participant Name" />
+    <class xml:id="count" label="Participant Count" />
     <class xml:id="ideology" label="Participant Ideology" />
     <class xml:id="ethnicity" label="Participant Ethnicity" />
     <class xml:id="religion" label="Participant Religion" />

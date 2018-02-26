@@ -8,8 +8,7 @@
     <class xml:id="urban" label="Urban Location Identifier" />
     <class xml:id="rural" label="Rural Location Identifier" />
     <class xml:id="ses" label="Location SES" />
-    <class xml:id="title" label="Event Title" />
-    <class xml:id="count" label="Participant Count" />
+    <class xml:id="doc_title" label="Document Title" />
     <class xml:id="casual" label="Participant Casualties" />
     <class xml:id="ctype" label="Participant Casualty Type" />
     <class xml:id="casualof" label="Officer Casualties" />

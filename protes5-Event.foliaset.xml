@@ -17,5 +17,6 @@
     <class xml:id="civil" label="Civilian Casualties" />
     <class xml:id="civiltype" label="Civilian Casualty Type" />
     <class xml:id="place" label="Event Place" />
+    <class xml:id="place_pub" label="Event Place Published" />
     <class xml:id="motive" label="Event Motivation" />
 </set>

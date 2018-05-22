@@ -10,12 +10,6 @@
     <class xml:id="rural" label="Rural Location Identifier" />
     <class xml:id="ses" label="Location SES" />
     <class xml:id="doc_title" label="Document Title" />
-    <class xml:id="casual" label="Participant Casualties" />
-    <class xml:id="ctype" label="Participant Casualty Type" />
-    <class xml:id="casualof" label="Officer Casualties" />
-    <class xml:id="coftype" label="Officer Casualty Type" />
-    <class xml:id="civil" label="Civilian Casualties" />
-    <class xml:id="civiltype" label="Civilian Casualty Type" />
     <class xml:id="place" label="Event Place" />
     <class xml:id="place_pub" label="Event Place Published" />
     <class xml:id="motive" label="Event Motivation" />

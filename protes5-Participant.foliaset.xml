@@ -10,5 +10,4 @@
     <class xml:id="sector" label="Participant Sector" />
     <class xml:id="partses" label="Participant SES" />
     <class xml:id="emp" label="Participant Employment" />
-    <class xml:id="sub" label="Subcontract Status" />
 </set>

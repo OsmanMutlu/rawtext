@@ -13,5 +13,4 @@
     <class xml:id="place" label="Event Place" />
     <class xml:id="place_pub" label="Event Place Published" />
     <class xml:id="motive" label="Event Motivation" />
-    <class xml:id="spatial" label="Spatial Entity" />
 </set>

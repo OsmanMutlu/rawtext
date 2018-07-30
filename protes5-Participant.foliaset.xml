@@ -7,7 +7,6 @@
     <class xml:id="ethnicity" label="Participant Ethnicity" />
     <class xml:id="religion" label="Participant Religion" />
     <class xml:id="caste" label="Participant Caste" />
-    <class xml:id="sector" label="Participant Sector" />
     <class xml:id="partses" label="Participant SES" />
-    <class xml:id="emp" label="Participant Employment" />
+    <class xml:id="emp" label="Participant Employment Status" />
 </set>

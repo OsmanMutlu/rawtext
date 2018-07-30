@@ -5,12 +5,9 @@
     <class xml:id="eptime" label="Event Time Published" />
     <class xml:id="loc" label="Facility Type" />
     <class xml:id="fname" label="Facility Name" />
-    <class xml:id="wtype" label="Weapon Type" />
     <class xml:id="urban" label="Urban Location Identifier" />
     <class xml:id="rural" label="Rural Location Identifier" />
-    <class xml:id="ses" label="Location SES" />
     <class xml:id="doc_title" label="Document Title" />
     <class xml:id="place" label="Event Place" />
     <class xml:id="place_pub" label="Event Place Published" />
-    <class xml:id="motive" label="Event Motivation" />
 </set>

@@ -2,8 +2,4 @@
 <set xml:id="protest-target" type="closed" xmlns="http://ilk.uvt.nl/folia">
     <class xml:id="type" label="Target Type" />
     <class xml:id="name" label="Target Name" />
-    <class xml:id="ideology" label="Target Ideology" />
-    <class xml:id="ethnicity" label="Target Ethnicity" />
-    <class xml:id="religion" label="Target Religion" />
-    <class xml:id="caste" label="Target Caste" />
 </set>

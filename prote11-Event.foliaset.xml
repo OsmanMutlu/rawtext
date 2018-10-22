@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="protest-event" type="closed" xmlns="http://ilk.uvt.nl/folia">
     <class xml:id="etype" label="Event Type" />
+    <class xml:id="emention" label="Event Mention" />
     <class xml:id="etime" label="Event Time" />
     <class xml:id="eptime" label="Event Time Published" />
     <class xml:id="loc" label="Facility Type" />

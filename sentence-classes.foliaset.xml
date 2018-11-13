@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="sentence-classes" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="0" label="Not Protest Related" />
+    <class xml:id="1" label="Protest Related" />
+    <class xml:id="2" label="Future/Threat Protest Related" />
+</set>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="protest-semantic" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="demonst" label="Demonstration" />
+    <class xml:id="ind_act" label="Industrial Action" />
+    <class xml:id="group_clash" label="Group Clash" />
+    <class xml:id="arm_mil" label="Armed Militancy" />
+    <class xml:id="elec_pol" label="Electoral Politics" />
+    <class xml:id="other" label="Other" />
+</set>

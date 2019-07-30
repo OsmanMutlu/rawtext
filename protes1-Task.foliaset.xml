@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="protest-task" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="trigger" label="Event Trigger" />
+    <class xml:id="etime" label="Event Time" />
+    <class xml:id="fname" label="Facility" />
+    <class xml:id="organizer" label="Organizer" />
+    <class xml:id="participant" label="Participant" />
+    <class xml:id="place" label="Event Place" />
+    <class xml:id="target" label="Target" />
+</set>

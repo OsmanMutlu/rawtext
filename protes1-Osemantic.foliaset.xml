@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="protest-osemantic" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="pol_party" label="Political Party" />
+    <class xml:id="ngo" label="NGO" />
+    <class xml:id="trade_union" label="Trade Union" />
+    <class xml:id="arm_org" label="Armed/Militant Organization" />
+    <class xml:id="chamber_profs" label="chamber of professionals" />
+    <class xml:id="os_other" label="Name/Other/None" />
+</set>

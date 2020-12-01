@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="protest-psemantic" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="peasant" label="Peasant" />
+    <class xml:id="worker" label="Worker" />
+    <class xml:id="producer" label="Small Producer" />
+    <class xml:id="employer" label="Employer/Eecutive" />
+    <class xml:id="professional" label="Professional" />
+    <class xml:id="student" label="Student" />
+    <class xml:id="people" label="People" />
+    <class xml:id="activist" label="Activist" />
+    <class xml:id="politician" label="Politician" />
+    <class xml:id="militant" label="Militant" />
+    <class xml:id="ps_other" label="Name/Other/None" />
+</set>
